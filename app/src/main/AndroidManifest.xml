@@ -11,6 +11,7 @@
         android:theme="@style/Theme.Playground1">
         <activity
             android:name=".DisplayMessageActivity"
+            android:parentActivityName=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
