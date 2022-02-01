@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Playground1">
+        <!-- .parentActivityName sets up parent therefor back button to appear-->
         <activity
             android:name=".DisplayMessageActivity"
             android:parentActivityName=".MainActivity"
