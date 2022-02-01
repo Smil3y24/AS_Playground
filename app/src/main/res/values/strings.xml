@@ -1,5 +1,12 @@
 <resources>
-    <string name="app_name">Playground1</string>
+    <string name="app_name">Playground App</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="card1Text">Card 1</string>
+    <string name="card2Text">Card 2</string>
+    <string name="card3Text">Card 3</string>
+    <string name="card4Text">Card 4</string>
+    <string name="card5Text">Card 5</string>
+    <string name="card6Text">Card 6</string>
+    <string name="card7Text">Card 7</string>
 </resources>
